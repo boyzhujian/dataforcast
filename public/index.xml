@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> – </title>
+    <link>http://example.com/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 May 2020 15:04:20 +0800</lastBuildDate>
+    <image>
+      <url>http://example.com/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>http://example.com/</link>
+    </image>
+    
+		  <atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml" />
+    
+    
+    <item>
+      <title>: </title>
+      <link>http://example.com/</link>
+      <pubDate>Fri, 22 May 2020 15:04:20 +0800</pubDate>
+      
+      <guid>http://example.com/</guid>
+      <description>
+        
+        
+        &lt;p&gt;index page&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
