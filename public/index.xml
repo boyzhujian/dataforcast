@@ -1,31 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> – </title>
-    <link>http://example.com/</link>
-    <description>Recent Hugo news from gohugo.io</description>
+    <title>Dataforcast  company</title>
+    <link>/</link>
+    <description>Recent content on Dataforcast  company</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 May 2020 15:04:20 +0800</lastBuildDate>
-    <image>
-      <url>http://example.com/img/hugo.png</url>
-      <title>GoHugo.io</title>
-      <link>http://example.com/</link>
-    </image>
-    
-		  <atom:link href="http://example.com/index.xml" rel='self' type="application/rss+xml" />
-    
+    <language>zh-client</language>
+    <lastBuildDate>Thu, 17 Dec 2020 17:40:48 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Something</title>
+      <link>/something/</link>
+      <pubDate>Sat, 19 Dec 2020 23:37:13 +0800</pubDate>
+      
+      <guid>/something/</guid>
+      <description>Please display me</description>
+    </item>
     
     <item>
-      <title>: </title>
-      <link>http://example.com/</link>
+      <title>About</title>
+      <link>/tmp/about/</link>
+      <pubDate>Thu, 17 Dec 2020 17:40:48 +0800</pubDate>
+      
+      <guid>/tmp/about/</guid>
+      <description>abount</description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>/post/</link>
+      <pubDate>Fri, 22 May 2020 15:05:04 +0800</pubDate>
+      
+      <guid>/post/</guid>
+      <description>post index theme</description>
+    </item>
+    
+    <item>
+      <title>Contact us</title>
+      <link>/contact/</link>
       <pubDate>Fri, 22 May 2020 15:04:20 +0800</pubDate>
       
-      <guid>http://example.com/</guid>
-      <description>
-        
-        
-        &lt;p&gt;index page&lt;/p&gt;
-
-      </description>
+      <guid>/contact/</guid>
+      <description>contact us</description>
     </item>
     
   </channel>
